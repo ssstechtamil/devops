@@ -1,0 +1,14 @@
+Basic git commands
+# git init 
+# git config --global user.email “[valid-email]”
+# git config --global user.name “[firstname lastname]”
+# git add 
+# git status
+# git commit 
+# git pull
+# git push 
+# git diff 
+# git reset 
+# git branch
+# git checkout 
+# git log 
